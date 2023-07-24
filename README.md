@@ -16,7 +16,7 @@ Site para organizar e apresentar os conteúdos e APIs desenvolvidos.
 - [Achimid Site] https://achimid.com.br/
 - [AniFan] https://anifan.com.br/
 - [AnimeX] https://animex.achimid.com.br
-- [Puppeteer API] https://puppeteer-api.achimid.com.br/
+- [Puppeteer Executor] https://puppeteer-executor.achimid.com.br/
 - [UpTime Kuma] https://status.achimid.com.br/status/sites
 - [Telegram Notify] https://telegram-notify-api.achimid.com.br/
 
